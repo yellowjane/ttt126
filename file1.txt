@@ -1,0 +1,4 @@
+This is file1
+Add a second line to file1
+Add a third line to file1
+Add a fourth line on file1 of master
